@@ -27,6 +27,13 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PrernaGupta-08&layout=compact&theme=tokyonight)   
 
 
+### Where to find me
+
+[![GitHub](https://img.shields.io/badge/GITHUB-black?logo=github&style=for-the-badge)](https://github.com/PrernaGupta-08)  
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/linkedin.com/in/prerna-gupta-2605a923b)  
+[![Gmail](https://img.shields.io/badge/GMAIL-D14836?logo=gmail&style=for-the-badge)](mailto:prernagupta657@gmail.com)
+
+
 ## 📫 Connect with Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINK/)  
