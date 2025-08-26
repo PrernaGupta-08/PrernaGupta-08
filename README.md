@@ -22,9 +22,9 @@
 
 ## 📊 GitHub Stats  
 
-![Prerna's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)  
+![Prerna Gupta's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrernaGupta-08&show_icons=true&theme=tokyonight)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PrernaGupta-08&layout=compact&theme=tokyonight)   
 
 
 ## 📫 Connect with Me  
