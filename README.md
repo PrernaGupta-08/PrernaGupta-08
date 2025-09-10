@@ -1,40 +1,46 @@
-# Hi there 👋 I'm Prerna Gupta  
+### 👋 Hi, I'm Prerna Gupta
 
-🚀 Aspiring **Data Engineer** passionate about building data pipelines, working with cloud technologies, and transforming raw data into meaningful insights.  
+I'm a **Data Engineer** with nearly 2 years of experience in designing scalable data pipelines, transforming raw data into insights, and working with modern data tools like **Azure Data Factory, Databricks, and PySpark**. Passionate about clean data, automation, and performance optimization.
 
-🌱 Currently learning: **SQL, Python, Azure, Data Warehousing**  
-🎯 Goal: To design scalable, reliable, and efficient data engineering solutions  
-💡 Interested in: Big Data, Cloud Platforms, Data Pipelines, and Analytics  
+---
 
-## 🛠️ Skills  
+### 💼 What I Do
+- 🔹 Develop and manage **ETL/ELT pipelines** using **Azure Data Factory**
+- 🔹 Work with large-scale data using **Databricks** and **PySpark**
+- 🔹 Write optimized queries and transformations in **SQL** and **Python**
+- 🔹 Clean, analyze, and manipulate data using **Pandas**
+- 🔹 Collaborate with analytics teams to deliver reliable datasets and reports
 
-**Programming:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)  
+---
 
-**Data Tools:** ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white)  
+### 🛠️ Tech Stack
+| Tool/Tech         | Skills                          |
+|-------------------|---------------------------------|
+| **Languages**     | Python, SQL                     |
+| **Data Tools**    | Azure Data Factory, Databricks  |
+| **Big Data**      | PySpark                         |
+| **Data Analysis** | Pandas                          |
+| **Cloud**         | Microsoft Azure                 |
+| **Workflow**      | Git, CI/CD basics               |
 
-**Big Data & Cloud:** ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white) ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)  
+---
 
-**Version Control:** ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+### 📊 Featured Projects
+- ⚙️ [End-to-End ETL with ADF + Databricks](#)  
+  Designed a robust data pipeline combining Azure Data Factory and Databricks to load, transform, and validate data.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
+- 📈 [Sales Data Insights with Pandas](#)  
+  Cleaned and analyzed messy sales datasets, generating visual reports and KPIs using Python and Pandas.
 
+---
 
-## 📊 GitHub Stats  
+### 📫 Let's Connect
+- LinkedIn: [Prerna Gupta](https://www.linkedin.com/in/prerna-gupta-2605a923b)
+- Portfolio: [your-portfolio.com](#)
+- Email: prernagupta657@gmail.com
 
-![Prerna Gupta's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrernaGupta-08&show_icons=true&theme=tokyonight)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PrernaGupta-08&layout=compact&theme=tokyonight)   
-
-
-### Where to find me
-
-[![GitHub](https://img.shields.io/badge/GITHUB-black?logo=github&style=for-the-badge)](https://github.com/PrernaGupta-08)  
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/linkedin.com/in/prerna-gupta-2605a923b)  
-[![Gmail](https://img.shields.io/badge/GMAIL-D14836?logo=gmail&style=for-the-badge)](mailto:prernagupta657@gmail.com)
+---
 
 
-## 📫 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINK/)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)  
+> ⚡ _“Clean data is good data. Automation is the future.”_
