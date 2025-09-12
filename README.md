@@ -36,7 +36,7 @@ I'm a **Data Engineer** with nearly 2 years of experience in designing scalable 
 
 ### 📫 Let's Connect
 - LinkedIn: [Prerna Gupta](https://www.linkedin.com/in/prerna-gupta-2605a923b)
-- Portfolio: [your-portfolio.com](#)
+- Portfolio: https://prernagupta-08.github.io/portfolio-website/
 - Email: prernagupta657@gmail.com
 
 ---
